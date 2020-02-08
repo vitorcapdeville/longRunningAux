@@ -1,0 +1,11 @@
+Package: longRunningAux
+Type: Package
+Title: Funções auxiliares para Long Running Apps
+Version: 0.1.0
+Author: https://www.r-bloggers.com/long-running-tasks-with-shiny-challenges-and-solutions/
+Maintainer: Vitor Capdeville <vgcapdeville@hotmail.com>
+Description: Pacote com algumas funções para auxiliar na construção de aplicativos shiny que demoram pra rodar, e precisam/podem ser interrompidos.
+License: GPL (>=3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
